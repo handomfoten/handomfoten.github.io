@@ -1,11 +1,12 @@
 #map-canvas {
     width: 100%;
-    height: 300px;
+    height: 400px;
     background-color: #CCC;
 }
 
-body {   
+html, body {   
     backgound: #bcebd7;
+    height: 100%;
 }
 
 .d-main-content {
@@ -20,7 +21,7 @@ body {
 }
 
 footer {
-    background: #3c933e;
+    background: #1d3b4b;
     color: white;
 }
 
